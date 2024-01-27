@@ -71,3 +71,6 @@ button {
   margin-right: 30px;
   font-size: 16px;
 }
+
+.TodoItem button {
+}
