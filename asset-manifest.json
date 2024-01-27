@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sancheck-checklist/static/css/main.9c979947.css",
+    "main.js": "/sancheck-checklist/static/js/main.6f4b2e39.js",
+    "index.html": "/sancheck-checklist/index.html",
+    "main.9c979947.css.map": "/sancheck-checklist/static/css/main.9c979947.css.map",
+    "main.6f4b2e39.js.map": "/sancheck-checklist/static/js/main.6f4b2e39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c979947.css",
+    "static/js/main.6f4b2e39.js"
+  ]
+}
