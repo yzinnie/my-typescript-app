@@ -35,6 +35,9 @@ body {
 }
 
 .todo-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   background-color: #f7f7f7;
   padding: 12px;
   border-radius: 4px;
@@ -70,6 +73,4 @@ button {
 }
 
 .TodoItem button {
-  position: relative;
-  margin-left: 200px;
 }
